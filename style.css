@@ -95,3 +95,37 @@ box-shadow:0 4px 10px rgba(0,0,0,0.1);
 .service h3{
 color:darkblue;
 }
+
+.hero{
+background-image:url("camion-banner.jpg");
+background-size:cover;
+background-position:center;
+height:400px;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+color:white;
+text-align:center;
+}
+
+.hero h1{
+font-size:50px;
+}
+
+.hero p{
+font-size:20px;
+}
+
+.btn{
+background-color:darkblue;
+color:white;
+padding:12px 25px;
+text-decoration:none;
+border-radius:5px;
+margin-top:15px;
+}
+
+.btn:hover{
+background-color:navy;
+}
