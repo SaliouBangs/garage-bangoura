@@ -97,7 +97,7 @@ color:darkblue;
 }
 
 .hero{
-background-image:url("camion-banner3.jpg");
+background-image:url("camion-banner.jpg");
 background-size:cover;
 background-position:center;
 height:400px;
@@ -129,4 +129,5 @@ margin-top:15px;
 .btn:hover{
 background-color:navy;
 }
+
 
