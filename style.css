@@ -170,6 +170,28 @@ margin:10px;
 width:90%;
 }
 }
+.whatsapp-float{
+position:fixed;
+bottom:20px;
+right:20px;
+
+background-color:#25D366;
+color:white;
+
+padding:15px 20px;
+border-radius:50px;
+
+text-decoration:none;
+font-weight:bold;
+
+box-shadow:0 4px 10px rgba(0,0,0,0.3);
+
+z-index:1000;
+}
+
+.whatsapp-float:hover{
+background-color:#1ebe5d;
+}
 
 
 
