@@ -97,14 +97,16 @@ color:darkblue;
 }
 
 .hero{
-background-image:url("camion-banner.jpg");
+background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("camion-banner.jpg");
 background-size:cover;
 background-position:center;
 height:400px;
+
 display:flex;
 flex-direction:column;
 justify-content:center;
 align-items:center;
+
 color:white;
 text-align:center;
 }
@@ -129,5 +131,6 @@ margin-top:15px;
 .btn:hover{
 background-color:navy;
 }
+
 
 
