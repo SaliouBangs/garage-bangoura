@@ -8,6 +8,11 @@ nav{
 background-color:darkblue;
 padding:15px;
 text-align:center;
+
+position:sticky;
+top:0;
+
+z-index:1000;
 }
 
 nav a{
@@ -140,5 +145,6 @@ margin-bottom:10px;
 .hero p{
 font-size:22px;
 }
+
 
 
